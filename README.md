@@ -1,13 +1,11 @@
 # PyChain Ledger                                                                                                          
-### Secure. Decentralized. Efficient.                      
 -------------------------------------------------------------------------------
 🔗 A secure, decentralized ledger system for financial transactions
 🌐 Built with Python & Streamlit
 🔒 Featuring proof-of-work consensus
 📊 Real-time blockchain validation
--------------------------------------------------------------------------------
 ![alt=""](Images/application-image.png)
-
+-------------------------------------------------------------------------------
 ## Description
 
 PyChain Ledger is a blockchain-based ledger system with a user-friendly web interface built using Python and Streamlit. This system allows for secure recording and verification of financial transactions through a decentralized ledger implementation.
