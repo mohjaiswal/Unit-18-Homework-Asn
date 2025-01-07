@@ -1,11 +1,5 @@
-##############################################################################
-#                                                                            #
-#                            PyChain Ledger                                  #
-#                                                                            #
-#                     Secure. Decentralized. Efficient.                      #
-#                                                                            #
-##############################################################################
-
+# PyChain Ledger                                                                                                          
+### Secure. Decentralized. Efficient.                      
 -------------------------------------------------------------------------------
 🔗 A secure, decentralized ledger system for financial transactions
 🌐 Built with Python & Streamlit
