@@ -5,6 +5,7 @@
 🔒 Featuring proof-of-work consensus
 📊 Real-time blockchain validation
 ![alt=""](Images/application-image.png)
+
 -------------------------------------------------------------------------------
 ## Description
 
